@@ -9,7 +9,7 @@
 ## About
 
 
-[docs]: https://en.wikipedia.org/wiki/Arithmetic_coding
+[Wikipedia page on arithmetic coding](https://en.wikipedia.org/wiki/Arithmetic_coding)
 
 
 ### To build
